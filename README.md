@@ -1,4 +1,4 @@
-# titanic-survival-prediction
+# Titanic-survival-prediction
 Predicting Titanic survival using Python, ML, and a Dash dashboard
 
 ## Overview
